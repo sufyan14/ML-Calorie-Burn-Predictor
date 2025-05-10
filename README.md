@@ -11,6 +11,9 @@ This project uses a linear regression model to predict calories burned during wo
 - Scikit-learn
 - Matplotlib
 
+## Dataset from Kaggle
+https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
+
 ## Output
 ### Actual vs Predicted Plot
 ![{60EF4DE2-5AEE-408D-8BCC-706291B0A764}](https://github.com/user-attachments/assets/5194a681-1b78-421d-a985-bca4059efd54)
